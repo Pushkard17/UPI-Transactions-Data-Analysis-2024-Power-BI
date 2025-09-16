@@ -20,3 +20,37 @@ The report highlights how digital payments are shaping India’s financial ecosy
 ---
 
 ## 📂 Project Structure  
+
+
+---
+
+## 📊 Key Insights  
+- 📈 Consistent rise in UPI transactions month-on-month  
+- 🏦 Top 5 banks account for majority of UPI payments  
+- 📱 PhonePe, Google Pay, and Paytm dominate UPI adoption  
+- 🌍 Tier-2 and Tier-3 cities show rapid adoption growth  
+
+---
+
+## 🚀 Tools & Technologies  
+- **Power BI** → Interactive dashboards & analysis  
+- **Data Sources** → UPI transaction data (2024)  
+- **Excel/CSV** → Pre-cleaned datasets  
+
+---
+
+## 📸 Dashboard Preview  
+*(Add screenshots in `/visuals` folder and link here)*  
+![UPI Dashboard](visuals/dashboard.png)  
+
+---
+
+## 📜 License  
+This project is licensed under the **MIT License** – see the [LICENSE](LICENSE) file for details.  
+
+---
+
+## 👤 Author  
+**Pushkar Dhavane**  
+📧 pushkardhavane@gmail.com  
+
